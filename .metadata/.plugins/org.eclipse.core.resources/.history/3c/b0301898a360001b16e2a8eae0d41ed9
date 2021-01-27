@@ -1,0 +1,15 @@
+package br.com.empresa.gui;
+
+import javax.swing.JFrame;
+
+public class FrameRetangulo {
+
+	public void criarTela() {
+		
+		JFrame tela = new JFrame();
+		tela.setTitle("Calculos com Retângulos");
+		
+		tela.setVisible(true);
+	}
+	
+}
