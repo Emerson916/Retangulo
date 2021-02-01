@@ -10,7 +10,7 @@ public class App {
 		FrameRetangulo tela = new FrameRetangulo();
 		tela.criarTela();
 		
-		
+		/*
 		Retangulo r1 = new Retangulo();
 		r1.setAltura(5);
 		r1.setBase(8);
@@ -22,7 +22,7 @@ public class App {
 		r2.setBase(200);
 		System.out.println(r2.calcularArea());
 		System.out.println(r2.calcularPerimetro());
-		
+		*/
 	}
 
 }
